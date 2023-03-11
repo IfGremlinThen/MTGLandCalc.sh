@@ -1,4 +1,4 @@
-# MTGLandCalc
+# MTGLandCalc.sh
 A simple bash script for calculating how many lands are necessary to support your Magic: The Gathering deck.
 
 The purpose of this script is to roughly calculate the optimal number of lands to run in a given Magic: The Gathering deck.  This is determined by averaging the total Converted Mana Cost ("CMC") of spells in your deck and finding the ratio of lands to non-lands necessary for an equal number of lands to appear in an average opening hand of 7 cards.
